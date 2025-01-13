@@ -1,6 +1,3 @@
-# nifty_pred-basic-
-
-
 
 # Nifty Prediction
 
